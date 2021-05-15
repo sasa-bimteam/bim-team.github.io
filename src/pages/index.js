@@ -37,17 +37,19 @@ class Index extends React.Component {
         <Nav sticky={this.state.stickyNav} />
 
         <div id="main">
-          <section id="intro" className="main">
+          <section id="kdo_smo" className="main">
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>Kdo smo?</h2>
                 </header>
                 <p>
-                  Sed lorem ipsum dolor sit amet nullam consequat feugiat
-                  consequat magna adipiscing magna etiam amet veroeros. Lorem
-                  ipsum dolor tempus sit cursus. Tempus nisl et nullam lorem
-                  ipsum dolor sit amet aliquam.
+                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
+                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
+                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
+                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
+                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
+                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
                 </p>
                 <ul className="actions">
                   <li>
@@ -63,76 +65,40 @@ class Index extends React.Component {
             </div>
           </section>
 
-          <section id="first" className="main special">
+          <section id="projektno_vodenje" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
-            </header>
-            <ul className="features">
-              <li>
-                <span className="icon major style1 fa-code"></span>
-                <h3>Ipsum consequat</h3>
-                <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
-                </p>
-              </li>
-              <li>
-                <span className="icon major style3 fa-copy"></span>
-                <h3>Amed sed feugiat</h3>
-                <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
-                </p>
-              </li>
-              <li>
-                <span className="icon major style5 fa-diamond"></span>
-                <h3>Dolor nullam</h3>
-                <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
-                </p>
-              </li>
-            </ul>
-            <footer className="major">
-              <ul className="actions">
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
-                </li>
-              </ul>
-            </footer>
-          </section>
-
-          <section id="second" className="main special">
-            <header className="major">
-              <h2>Ipsum consequat</h2>
+              <h2>Pravi BIM, ob pravem času, s pravimi ljudmi - iz pravih razlogov</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
-                <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+              Usklajevanje zahtev med projektiranjem in gradnjo je lahko velik izziv.<br />
+              Plannerly je platforma v oblaku, za BIM projektno vodenje, namenjena arhitektom, inženirjem, izvajalcem in naročnikom za izboljšanje
+              sodelovanja in komunikacije. Plannerly je skupna platforma za vse udeležence v projektu, na kateri lahko soustvarjajo, pregledujejo,
+              komentirajo in potrjujejo načrt izvedbe BIM (BEP); določajo, se dogovarjajo in dodeljujejo obseg dela; spremljajo napredek in sledijo
+              oddajam - vse to v eni namenski spletni aplikaciji.
               </p>
             </header>
             <ul className="statistics">
               <li className="style1">
                 <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
+                <strong>PLAN</strong> Online BIM Execution Planning
+                <Link to="/generic" className="button">
+                  Learn More
+                </Link>
               </li>
               <li className="style2">
                 <span className="icon fa-folder-open-o"></span>
-                <strong>8,192</strong> Magna
+                <strong>SCOPE</strong> Visual scopes everyone can understand
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
-                <strong>2,048</strong> Tempus
+                <strong>SCHEDULE</strong> Schedules that teams manage together
               </li>
               <li className="style4">
                 <span className="icon fa-laptop"></span>
-                <strong>4,096</strong> Aliquam
+                <strong>TRACK</strong> Collaborative Task Management
               </li>
               <li className="style5">
                 <span className="icon fa-diamond"></span>
-                <strong>1,024</strong> Nullam
+                <strong>VIEW</strong> Integrated model review and control
               </li>
             </ul>
             <p className="content">
@@ -158,13 +124,57 @@ class Index extends React.Component {
             </footer>
           </section>
 
-          <section id="cta" className="main special">
+          <section id="bim" className="main special">
+            <header className="major">
+              <h2>Kako začeti z BIM</h2>
+            </header>
+            <ul className="features">
+              <li>
+                <span className="icon major style1 fa-code"></span>
+                <h3>BIM za začetnike</h3>
+                <p>
+                  Če ste novi na področju BIM-a in
+                  želite izvedeti več o tem, kaj to je
+                  in kaj lahko pomeni za vas ste na
+                  pravem mestu
+                </p>
+                <Link to="/generic" className="button">
+                  Learn More
+                </Link>
+              </li>
+              <li>
+                <span className="icon major style3 fa-copy"></span>
+                <h3>BIM za arhitekte</h3>
+                <p>
+                  Kako in kje začeti z oblikovanjem
+                  inteligentnega virtualnega
+                  modela zgradbe?
+                </p>
+                <Link to="/generic" className="button">
+                  Learn More
+                </Link>
+              </li>
+            </ul>
+            <footer className="major">
+              <ul className="actions">
+                <li>
+                  <Link to="/generic" className="button">
+                    Learn More
+                  </Link>
+                </li>
+              </ul>
+            </footer>
+          </section>
+
+          <section id="pomagamo" className="main special">
             <header className="major">
               <h2>Congue imperdiet</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
+                Ali vam morda licenca za BIM program še vedno stoji v predalu? <br />
+                Ali zaradi dela na tekočih projektih ni dovolj časa oz. znanja za preklop na BIM? <br />
+                Ste opravili začetni tečaj in ne veste kako stečeno znanje uporabiti na pravem projektu? <br />
                 <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+                Tu smo za vas, saj odlično vemo, da nakup programa BIM še ne pomeni prehod na BIM in se zavedamo , da se ta sprememba ne zgodi čez noč. Naj vam naš tim izkušenih strokovnjakov olajša prehod na BIM in pomaga pri njegovi implementaciji v delovni proces arhitekturnega projektiranja. Naj bo prehod na BIM projektiranje premišljena odločitev v koordinaciji s strokovnjaki na tem področju.
               </p>
             </header>
             <footer className="major">
