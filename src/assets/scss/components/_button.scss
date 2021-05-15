@@ -47,6 +47,11 @@
 			font-size: 0.8em;
 		}
 
+		&.little {
+			font-size: 0.8em;
+			min-width: 5.25em;
+		}
+
 		&.big {
 			font-size: 1.35em;
 		}

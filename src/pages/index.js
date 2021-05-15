@@ -54,7 +54,7 @@ class Index extends React.Component {
                 <ul className="actions">
                   <li>
                     <Link to="/generic" className="button">
-                      Learn More
+                      Preberite več
                     </Link>
                   </li>
                 </ul>
@@ -82,7 +82,7 @@ class Index extends React.Component {
                 <span className="icon fa-code-fork"></span>
                 <strong>PLAN</strong> Online BIM Execution Planning
                 <br />
-                <Link to="/generic" className="button">
+                <Link to="/generic" className="button little">
                   Več
                 </Link>
               </li>
@@ -90,7 +90,7 @@ class Index extends React.Component {
                 <span className="icon fa-folder-open-o"></span>
                 <strong>SCOPE</strong> Visual scopes everyone can understand
                 <br />
-                <Link to="/generic" className="button">
+                <Link to="/generic" className="button little">
                   Več
                 </Link>
               </li>
@@ -98,7 +98,7 @@ class Index extends React.Component {
                 <span className="icon fa-signal"></span>
                 <strong>SCHEDULE</strong> Schedules that teams manage together
                 <br />
-                <Link to="/generic" className="button">
+                <Link to="/generic" className="button little">
                   Več
                 </Link>
               </li>
@@ -106,7 +106,7 @@ class Index extends React.Component {
                 <span className="icon fa-laptop"></span>
                 <strong>TRACK</strong> Collaborative Task Management
                 <br />
-                <Link to="/generic" className="button">
+                <Link to="/generic" className="button little">
                   Več
                 </Link>
               </li>
@@ -114,7 +114,7 @@ class Index extends React.Component {
                 <span className="icon fa-diamond"></span>
                 <strong>VIEW</strong> Integrated model review and control
                 <br />
-                <Link to="/generic" className="button">
+                <Link to="/generic" className="button little">
                   Več
                 </Link>
               </li>
