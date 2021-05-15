@@ -67,11 +67,12 @@ class Index extends React.Component {
 
           <section id="projektno_vodenje" className="main special">
             <header className="major">
-              <h2>Pravi BIM, ob pravem času, s pravimi ljudmi - iz pravih razlogov</h2>
+              <h2>Pravi BIM, ob pravem času, s pravimi ljudmi<br />iz pravih razlogov</h2>
               <p>
               Usklajevanje zahtev med projektiranjem in gradnjo je lahko velik izziv.<br />
               Plannerly je platforma v oblaku, za BIM projektno vodenje, namenjena arhitektom, inženirjem, izvajalcem in naročnikom za izboljšanje
-              sodelovanja in komunikacije. Plannerly je skupna platforma za vse udeležence v projektu, na kateri lahko soustvarjajo, pregledujejo,
+              sodelovanja in komunikacije. <br />
+              Plannerly je skupna platforma za vse udeležence v projektu, na kateri lahko soustvarjajo, pregledujejo,
               komentirajo in potrjujejo načrt izvedbe BIM (BEP); določajo, se dogovarjajo in dodeljujejo obseg dela; spremljajo napredek in sledijo
               oddajam - vse to v eni namenski spletni aplikaciji.
               </p>
@@ -80,25 +81,42 @@ class Index extends React.Component {
               <li className="style1">
                 <span className="icon fa-code-fork"></span>
                 <strong>PLAN</strong> Online BIM Execution Planning
+                <br />
                 <Link to="/generic" className="button">
-                  Learn More
+                  Več o tem
                 </Link>
               </li>
               <li className="style2">
                 <span className="icon fa-folder-open-o"></span>
                 <strong>SCOPE</strong> Visual scopes everyone can understand
+                <br />
+                <Link to="/generic" className="button">
+                  Več o tem
+                </Link>
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
                 <strong>SCHEDULE</strong> Schedules that teams manage together
+                <br />
+                <Link to="/generic" className="button">
+                  Več o tem
+                </Link>
               </li>
               <li className="style4">
                 <span className="icon fa-laptop"></span>
                 <strong>TRACK</strong> Collaborative Task Management
+                <br />
+                <Link to="/generic" className="button">
+                  Več o tem
+                </Link>
               </li>
               <li className="style5">
                 <span className="icon fa-diamond"></span>
                 <strong>VIEW</strong> Integrated model review and control
+                <br />
+                <Link to="/generic" className="button">
+                  Več o tem
+                </Link>
               </li>
             </ul>
             <p className="content">
@@ -139,7 +157,7 @@ class Index extends React.Component {
                   pravem mestu
                 </p>
                 <Link to="/generic" className="button">
-                  Learn More
+                  Več o tem
                 </Link>
               </li>
               <li>
@@ -151,24 +169,15 @@ class Index extends React.Component {
                   modela zgradbe?
                 </p>
                 <Link to="/generic" className="button">
-                  Learn More
+                  Več o tem
                 </Link>
               </li>
             </ul>
-            <footer className="major">
-              <ul className="actions">
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
-                  </Link>
-                </li>
-              </ul>
-            </footer>
           </section>
 
           <section id="pomagamo" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>Kako vam lahko pomagamo</h2>
               <p>
                 Ali vam morda licenca za BIM program še vedno stoji v predalu? <br />
                 Ali zaradi dela na tekočih projektih ni dovolj časa oz. znanja za preklop na BIM? <br />
@@ -181,12 +190,7 @@ class Index extends React.Component {
               <ul className="actions">
                 <li>
                   <Link to="/generic" className="button special">
-                    Get Started
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/generic" className="button">
-                    Learn More
+                    Pogovor s svetovalcem
                   </Link>
                 </li>
               </ul>
