@@ -83,7 +83,7 @@ class Index extends React.Component {
                 <strong>PLAN</strong> Online BIM Execution Planning
                 <br />
                 <Link to="/generic" className="button">
-                  Več o tem
+                  Več
                 </Link>
               </li>
               <li className="style2">
@@ -91,7 +91,7 @@ class Index extends React.Component {
                 <strong>SCOPE</strong> Visual scopes everyone can understand
                 <br />
                 <Link to="/generic" className="button">
-                  Več o tem
+                  Več
                 </Link>
               </li>
               <li className="style3">
@@ -99,7 +99,7 @@ class Index extends React.Component {
                 <strong>SCHEDULE</strong> Schedules that teams manage together
                 <br />
                 <Link to="/generic" className="button">
-                  Več o tem
+                  Več
                 </Link>
               </li>
               <li className="style4">
@@ -107,7 +107,7 @@ class Index extends React.Component {
                 <strong>TRACK</strong> Collaborative Task Management
                 <br />
                 <Link to="/generic" className="button">
-                  Več o tem
+                  Več
                 </Link>
               </li>
               <li className="style5">
@@ -115,7 +115,7 @@ class Index extends React.Component {
                 <strong>VIEW</strong> Integrated model review and control
                 <br />
                 <Link to="/generic" className="button">
-                  Več o tem
+                  Več
                 </Link>
               </li>
             </ul>
