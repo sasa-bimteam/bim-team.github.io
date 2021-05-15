@@ -6,7 +6,8 @@ const Footer = props => (
     <section>
       <h2>Kavica. Kadarkoli.</h2>
       <p>
-        Kako naprej? Imate vprašanja? Potrebujete več informacij? Želite na pijačo?
+        Kako naprej? Imate vprašanja? <br />
+        Potrebujete več informacij? Želite na pijačo?
       </p>
       <ul className="actions">
         <li>
