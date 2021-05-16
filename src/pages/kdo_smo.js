@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import pic01 from '../assets/images/pic01.jpg'
+import peopleSasa from '../assets/images/people/sasa_jovanovic.png'
 import pic04 from '../assets/images/pic04.jpg'
 
 class KdoSmo extends React.Component {
@@ -36,7 +36,7 @@ class KdoSmo extends React.Component {
                 </p>
               </div>
               <span className="image">
-                <img src={pic01} alt="" />
+                <img src={peopleSasa} alt="" />
               </span>
             </div>
 
