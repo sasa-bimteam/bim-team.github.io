@@ -11,14 +11,10 @@ class KdoSmo extends React.Component {
     return (
       <Layout>
         <Helmet title="Generic Page Title" />
-        <header id="header">
-            <h1>Kdo smo</h1>
-            <p>dodaj neki tekst za to</p>
-        </header>
+        <header id="header"></header>
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic04} alt="" /></span>
-            <h2>Nekaj o nas</h2>
             <p>Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za povečanje produktivnosti in učinkovitosti pri procesu
                 gradnje inteligentnega virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se vsak dan učimo od sveta in drug od
                 drugega - združujeta nas radovednost in prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki jih lahko pričakujete,
