@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -30,6 +31,9 @@ class ZaZacetnike extends React.Component {
 
             BIM je kratica za ‘building information modelling’ ali informacijsko modeliranje gradenj.</p>
 
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
           </section>
         </div>
       </Layout>

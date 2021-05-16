@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -17,9 +18,14 @@ class Track extends React.Component {
             <h2>TRACK</h2>
             <strong>Stop starting;<br />Start finishing</strong>
             <p>The Lean approach to project management that allows you to focus on continuous BIM delivery.</p>
+
             <a href="https://www.plannerly.com/track/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
             </a>
+
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
           </section>
         </div>
       </Layout>

@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -21,6 +22,10 @@ class Plan extends React.Component {
             <a href="https://www.plannerly.com/plan/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
             </a>
+
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
 
           </section>
         </div>

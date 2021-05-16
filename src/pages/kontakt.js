@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -16,6 +17,10 @@ class Kontakt extends React.Component {
             <span className="image main"><img src={pic01} alt="" /></span>
             <h2>Storitve</h2>
             <p>Vsebina, ki ponuja obiskovalnu možnosti za kontakt</p>
+
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
           </section>
         </div>
       </Layout>

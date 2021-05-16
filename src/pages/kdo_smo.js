@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -39,6 +40,10 @@ class KdoSmo extends React.Component {
                 <img src={peopleSasa} alt="" />
               </span>
             </div>
+
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
 
           </section>
         </div>

@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -17,9 +18,14 @@ class Verify extends React.Component {
             <h2>VERIFY</h2>
             <strong>Simplified BIM Compliance</strong>
             <p>Connecting models and requirements to achieve better BIM management</p>
+
             <a href="https://www.plannerly.com/verify/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
             </a>
+
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
           </section>
         </div>
       </Layout>
