@@ -68,14 +68,6 @@ class Index extends React.Component {
           <section id="projektno_vodenje" className="main special">
             <header className="major">
               <h2>Pravi BIM, ob pravem času, s pravimi ljudmi<br />iz pravih razlogov</h2>
-              <p>
-              Usklajevanje zahtev med projektiranjem in gradnjo je lahko velik izziv.<br />
-              Plannerly je platforma v oblaku, za BIM projektno vodenje, namenjena arhitektom, inženirjem, izvajalcem in naročnikom za izboljšanje
-              sodelovanja in komunikacije. <br />
-              Plannerly je skupna platforma za vse udeležence v projektu, na kateri lahko soustvarjajo, pregledujejo,
-              komentirajo in potrjujejo načrt izvedbe BIM (BEP); določajo, se dogovarjajo in dodeljujejo obseg dela; spremljajo napredek in sledijo
-              oddajam - vse to v eni namenski spletni aplikaciji.
-              </p>
             </header>
             <ul className="statistics">
               <li className="style1">
@@ -120,22 +112,16 @@ class Index extends React.Component {
               </li>
             </ul>
             <p className="content">
-              Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
-              eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum
-              ac arcu sit amet, fermentum pellentesque et purus. Integer maximus
-              varius lorem, sed convallis diam accumsan sed. Etiam porttitor
-              placerat sapien, sed eleifend a enim pulvinar faucibus semper quis
-              ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer
-              eget purus nec nulla mattis et accumsan ut magna libero. Morbi
-              auctor iaculis porttitor. Sed ut magna ac risus et hendrerit
-              scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras
-              eu ornare dui curabitur lacinia.
+              Usklajevanje zahtev med projektiranjem in gradnjo je lahko velik izziv. Plannerly je platforma v oblaku, za BIM projektno vodenje,
+              namenjena arhitektom, inženirjem, izvajalcem in naročnikom za izboljšanje sodelovanja in komunikacije. Plannerly je skupna platforma
+              za vse udeležence v projektu, na kateri lahko soustvarjajo, pregledujejo, komentirajo in potrjujejo načrt izvedbe BIM (BEP); določajo,
+              se dogovarjajo in dodeljujejo obseg dela; spremljajo napredek in sledijo oddajam - vse to v eni namenski spletni aplikaciji.
             </p>
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button">
-                    Learn More
+                  <Link to="/generic" className="button special">
+                    Začnite brezplačno uporabljati Plannerly
                   </Link>
                 </li>
               </ul>
