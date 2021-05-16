@@ -53,7 +53,7 @@ class Index extends React.Component {
                 </p>
                 <ul className="actions">
                   <li>
-                    <Link to="/generic" className="button">
+                    <Link to="/kdo_smo" className="button">
                       Preberite več
                     </Link>
                   </li>
