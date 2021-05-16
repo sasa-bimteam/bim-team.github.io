@@ -17,6 +17,9 @@ class Schedule extends React.Component {
             <h2>SCHEDULE</h2>
             <strong>The BIM schedule that teams build together</strong>
             <p>Multi-team task sequencing and collaboration provided 53% fewer coordination issues (read the case study)</p>
+            <a href="https://www.plannerly.com/schedule/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
+              Začni zdaj
+            </a>
           </section>
         </div>
       </Layout>

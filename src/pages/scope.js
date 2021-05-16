@@ -17,6 +17,9 @@ class Scope extends React.Component {
             <h2>SCOPE</h2>
             <strong>Visual BIM scopes that everyone can understand</strong>
             <p>A collaborative framework to define ISO 19650 requirements for Geometry, Documentation and Information (Level of Information Need BS EN 17412-1).</p>
+            <a href="https://www.plannerly.com/scope/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
+              Začni zdaj
+            </a>
           </section>
         </div>
       </Layout>

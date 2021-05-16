@@ -120,9 +120,9 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button special">
-                    Začnite brezplačno uporabljati Plannerly
-                  </Link>
+                  <a href="https://www.plannerly.com/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
+                  Začnite brezplačno uporabljati Plannerly
+                  </a>
                 </li>
               </ul>
             </footer>
@@ -142,7 +142,7 @@ class Index extends React.Component {
                   in kaj lahko pomeni za vas ste na
                   pravem mestu
                 </p>
-                <Link to="/generic" className="button">
+                <Link to="/za_zacetnike" className="button">
                   Več o tem
                 </Link>
               </li>
