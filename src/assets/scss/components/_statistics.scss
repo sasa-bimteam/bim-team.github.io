@@ -76,31 +76,31 @@
 
 			.icon-plan {
 				@include vendor('background-image', (
-					'url("../images/Plan-Icon.svg")',
+					'url("../images/icons/Plan-Icon.svg")',
 				));
 			}
 
 			.icon-scope {
 				@include vendor('background-image', (
-					'url("../images/Scope-Icon.svg")',
+					'url("../images/icons/Scope-Icon.svg")',
 				));
 			}
 
 			.icon-schedule {
 				@include vendor('background-image', (
-					'url("../images/Schedule-Icon.svg")',
+					'url("../images/icons/Schedule-Icon.svg")',
 				));
 			}
 
 			.icon-track {
 				@include vendor('background-image', (
-					'url("../images/Track-Icon.svg")',
+					'url("../images/icons/Track-Icon.svg")',
 				));
 			}
 
 			.icon-validate {
 				@include vendor('background-image', (
-					'url("../images/Validate-Icon.svg")',
+					'url("../images/icons/Validate-Icon.svg")',
 				));
 			}
 		}
