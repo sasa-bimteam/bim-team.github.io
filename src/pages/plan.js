@@ -1,4 +1,3 @@
-import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -19,9 +18,9 @@ class Plan extends React.Component {
             <strong>Simple BIM Execution Planning</strong>
             <p>Drag and drop from hundreds of free BEP templates to quickly create and agree on your BIM standards, processes and contracts.</p>
 
-            <Link to="https://www.plannerly.com/plan/?utm_source=yt5ep" className="button special">
+            <a href="https://www.plannerly.com/plan/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
-            </Link>
+            </a>
 
           </section>
         </div>
