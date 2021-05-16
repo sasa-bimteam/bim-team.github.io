@@ -68,9 +68,39 @@
 				}
 			}
 
+			.iconNew {
+				display: inline-block;
+				width: 64px;
+				height: 64px;
+			}
+
 			.icon-plan {
 				@include vendor('background-image', (
 					'url("../images/Plan-Icon.svg")',
+				));
+			}
+
+			.icon-scope {
+				@include vendor('background-image', (
+					'url("../images/Scope-Icon.svg")',
+				));
+			}
+
+			.icon-schedule {
+				@include vendor('background-image', (
+					'url("../images/Schedule-Icon.svg")',
+				));
+			}
+
+			.icon-track {
+				@include vendor('background-image', (
+					'url("../images/Track-Icon.svg")',
+				));
+			}
+
+			.icon-validate {
+				@include vendor('background-image', (
+					'url("../images/Validate-Icon.svg")',
 				));
 			}
 		}

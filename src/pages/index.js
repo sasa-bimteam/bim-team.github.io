@@ -79,7 +79,7 @@ class Index extends React.Component {
             </header>
             <ul className="statistics">
               <li className="style1">
-                <span className="icon icon-plan"></span>
+                <span className="iconNew icon-plan"></span>
                 <strong>PLAN</strong> Online BIM Execution Planning
                 <br />
                 <Link to="/generic" className="button little">
@@ -87,7 +87,7 @@ class Index extends React.Component {
                 </Link>
               </li>
               <li className="style2">
-                <span className="icon fa-folder-open-o"></span>
+                <span className="iconNew icon-scope"></span>
                 <strong>SCOPE</strong> Visual scopes everyone can understand
                 <br />
                 <Link to="/generic" className="button little">
@@ -95,7 +95,7 @@ class Index extends React.Component {
                 </Link>
               </li>
               <li className="style3">
-                <span className="icon fa-signal"></span>
+                <span className="iconNew icon-schedule"></span>
                 <strong>SCHEDULE</strong> Schedules that teams manage together
                 <br />
                 <Link to="/generic" className="button little">
@@ -103,7 +103,7 @@ class Index extends React.Component {
                 </Link>
               </li>
               <li className="style4">
-                <span className="icon fa-laptop"></span>
+                <span className="iconNew icon-track"></span>
                 <strong>TRACK</strong> Collaborative Task Management
                 <br />
                 <Link to="/generic" className="button little">
@@ -111,7 +111,7 @@ class Index extends React.Component {
                 </Link>
               </li>
               <li className="style5">
-                <span className="icon fa-diamond"></span>
+                <span className="iconNew icon-validate"></span>
                 <strong>VIEW</strong> Integrated model review and control
                 <br />
                 <Link to="/generic" className="button little">
