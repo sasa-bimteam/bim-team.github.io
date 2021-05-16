@@ -8,7 +8,8 @@ const Header = (props) => (
         <p>BIM | Architecture | Design</p>
         <p>Narejeno z ♥ v Sloveniji</p>
         <p>POSTANITE DEL DIGITALNE PREOBRAZBE</p>
-        <p>IZKORISTITE CELOTNI POTENCIAL BIM PROCESA</p>
+        <p>IZKORISTITE CELOTNI POTENCIAL</p>
+        <p>BIM PROCESA</p>
     </header>
 )
 
