@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import picPlan from '../assets/images/Plan-no-text.jpeg'
+import pic01 from '../assets/images/samsung-webex-flip-cisco-smart-working-gruppo-e1586348221167.jpg'
 
 class ZaArhitekte extends React.Component {
   render() {
@@ -15,7 +15,7 @@ class ZaArhitekte extends React.Component {
         </header>
         <div id="main">
           <section id="content" className="main">
-            <span className="image main"><img src={picPlan} alt="" /></span>
+            <span className="image main"><img src={pic01} alt="" /></span>
             <h2>Kako in kje začeti z oblikovanjem inteligentnega virtualnega modela zgradbe?</h2>
             <p>Povsod okoli nas tehnologija revolucionarno spreminja način življenja, dela, zabave in komuniciranja. To se dogaja tako hitro, da se težko spomnimo, kako je bilo pred internetom, pametnimi telefoni in brezžičnimi podatki. Hkrati se pojavljajo pomembne tehnologije, ki bodo okrepile našo vse bolj digitalno civilizacijo.</p>
             <p>Arhitektura je sredi največje preobrazbe od uvedbe računalnikov. S tem je povezano tudi uvajanje novih tehnologij. Napredek na področju digitalnih orodij za načrtovanje, medsebojne povezanosti in računalniško vodene izdelave se združujejo in spreminjajo vse faze procesa načrtovanja in gradnje. Informacijsko modeliranje gradenj (BIM) je dovolj preprosta zamisel: enoten digitalni model stavbe, na katerem lahko delajo vsi - arhitekt, naročnik, izvajalci, inženirji in upravljalci stavb.</p>

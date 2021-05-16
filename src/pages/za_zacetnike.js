@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import picPlan from '../assets/images/Plan-no-text.jpeg'
+import pic01 from '../assets/images/header_steelcase.jpg'
 
 class ZaZacetnike extends React.Component {
   render() {
@@ -15,7 +15,7 @@ class ZaZacetnike extends React.Component {
         </header>
         <div id="main">
           <section id="content" className="main">
-            <span className="image main"><img src={picPlan} alt="" /></span>
+            <span className="image main"><img src={pic01} alt="" /></span>
             <h2>BIM ni programska oprema, je proces</h2>
             <p>BIM ni programska oprema, je proces. Proces, ki ga veliko udeležencev
             (projektant, izvajalec in investitor) ne razume oz. se jim zdi nepotreben. BIM
