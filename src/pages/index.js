@@ -90,7 +90,7 @@ class Index extends React.Component {
                 <span className="iconNew icon-scope"></span>
                 <strong>SCOPE</strong> Visual scopes everyone can understand
                 <br />
-                <Link to="/generic" className="button little">
+                <Link to="/scope" className="button little">
                   Več
                 </Link>
               </li>
@@ -98,7 +98,7 @@ class Index extends React.Component {
                 <span className="iconNew icon-schedule"></span>
                 <strong>SCHEDULE</strong> Schedules that teams manage together
                 <br />
-                <Link to="/generic" className="button little">
+                <Link to="/schedule" className="button little">
                   Več
                 </Link>
               </li>
@@ -106,15 +106,15 @@ class Index extends React.Component {
                 <span className="iconNew icon-track"></span>
                 <strong>TRACK</strong> Collaborative Task Management
                 <br />
-                <Link to="/generic" className="button little">
+                <Link to="/track" className="button little">
                   Več
                 </Link>
               </li>
               <li className="style5">
                 <span className="iconNew icon-validate"></span>
-                <strong>VIEW</strong> Integrated model review and control
+                <strong>VERIFY</strong> Integrated model review and control
                 <br />
-                <Link to="/generic" className="button little">
+                <Link to="/verify" className="button little">
                   Več
                 </Link>
               </li>
