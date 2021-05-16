@@ -154,7 +154,7 @@ class Index extends React.Component {
                   inteligentnega virtualnega
                   modela zgradbe?
                 </p>
-                <Link to="/generic" className="button">
+                <Link to="/za_arhitekte" className="button">
                   Več o tem
                 </Link>
               </li>
@@ -175,7 +175,7 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button special">
+                  <Link to="/kontakt" className="button special">
                     Pogovor s svetovalcem
                   </Link>
                 </li>
