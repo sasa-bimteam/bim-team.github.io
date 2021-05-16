@@ -82,7 +82,7 @@ class Index extends React.Component {
                 <span className="iconNew icon-plan"></span>
                 <strong>PLAN</strong> Online BIM Execution Planning
                 <br />
-                <Link to="/generic" className="button little">
+                <Link to="/plan" className="button little">
                   Več
                 </Link>
               </li>
