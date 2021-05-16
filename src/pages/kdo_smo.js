@@ -2,9 +2,10 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
+import pic01 from '../assets/images/pic01.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 
-class Generic extends React.Component {
+class KdoSmo extends React.Component {
   render() {
 
     return (
@@ -21,7 +22,28 @@ class Generic extends React.Component {
             <p>Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za povečanje produktivnosti in učinkovitosti pri procesu
                 gradnje inteligentnega virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se vsak dan učimo od sveta in drug od
                 drugega - združujeta nas radovednost in prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki jih lahko pričakujete,
-                ko boste sodelovali z ekipo BIM Team.</p>
+                ko boste sodelovali z ekipo BIM Team.
+            </p>
+
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Saša Jovanović</h2>
+                </header>
+                <p>
+                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
+                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
+                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
+                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
+                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
+                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                </p>
+              </div>
+              <span className="image">
+                <img src={pic01} alt="" />
+              </span>
+            </div>
+
           </section>
         </div>
       </Layout>
@@ -29,4 +51,4 @@ class Generic extends React.Component {
   }
 }
 
-export default Generic
+export default KdoSmo
