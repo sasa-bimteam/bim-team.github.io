@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import picPlan from '../assets/images/Plan-no-text-400x284.jpeg'
+import picPlan from '../assets/images/Plan-no-text.jpeg'
 
 class Plan extends React.Component {
   render() {
