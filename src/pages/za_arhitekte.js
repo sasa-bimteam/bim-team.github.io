@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Helmet from 'react-helmet'
 
@@ -33,6 +34,9 @@ class ZaArhitekte extends React.Component {
             izbrali kot najboljši BIM program. Pokličite nas ali pošljite mail za brezplačno predstavitev in
             osebno preverite zakaj vam lahko prehod na BIM poveča produktivnost in konkurečnost.</p>
 
+            <Link to="/" className="button">
+              Nazaj
+            </Link>
           </section>
         </div>
       </Layout>
