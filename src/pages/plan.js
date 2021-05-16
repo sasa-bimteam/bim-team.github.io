@@ -23,6 +23,8 @@ class Plan extends React.Component {
               Začni zdaj
             </a>
 
+            <span>&nbsp;</span>
+
             <Link to="/" className="button">
               Nazaj
             </Link>

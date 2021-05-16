@@ -11,7 +11,7 @@ class KdoSmo extends React.Component {
 
     return (
       <Layout>
-        <Helmet title="Generic Page Title" />
+        <Helmet title="Kdo smo" />
         <header id="header"></header>
         <div id="main">
           <section id="content" className="main">

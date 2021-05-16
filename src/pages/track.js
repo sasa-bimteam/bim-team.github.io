@@ -10,7 +10,7 @@ class Track extends React.Component {
 
     return (
       <Layout>
-        <Helmet title="Generic Page Title" />
+        <Helmet title="BIM - track" />
         <header id="header"></header>
         <div id="main">
           <section id="content" className="main">
@@ -22,6 +22,8 @@ class Track extends React.Component {
             <a href="https://www.plannerly.com/track/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
             </a>
+
+            <span>&nbsp;</span>
 
             <Link to="/" className="button">
               Nazaj
