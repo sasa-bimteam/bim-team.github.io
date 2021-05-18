@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = props => (
   <footer id="footer">
-    <section>
+    <section style="color:black;">
       <h2>Kavica. Kadarkoli.</h2>
       <p>
         Kako naprej? Imate vprašanja? <br />
