@@ -18,7 +18,7 @@ const Footer = props => (
       </ul>
     </section>
     <section>
-      <h2>Kontakt</h2>
+      <h2><b>Kontakt</b></h2>
       <dl className="alt">
         <dt>Naslov</dt>
         <dd>Ljubljana, Slovenija, Europe, Earth, Solar system :)</dd>
