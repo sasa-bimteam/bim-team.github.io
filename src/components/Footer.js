@@ -4,7 +4,7 @@ import React from 'react'
 const Footer = props => (
   <footer id="footer">
     <section> 
-      <h2>Kavica. Kadarkoli.</h2>
+      <h2><b>Kavica. Kadarkoli.</b></h2>
       <p>
         Kako naprej? Imate vprašanja? <br />
         Potrebujete več informacij? Želite na pijačo?
