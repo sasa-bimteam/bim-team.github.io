@@ -7,22 +7,22 @@ const Nav = (props) => (
         <Scrollspy items={ ['kdo_smo', 'projektno_vodenje', 'bim', 'pomagamo'] } currentClassName="is-active" offset={-300}>
             <li>
                 <Scroll type="id" element="kdo_smo">
-                    <a href="#">Spoznajte nas</a>
+                    <a href="#"><b>Spoznajte</b>< nas</a>
                 </Scroll>
             </li>
             <li>
                 <Scroll type="id" element="projektno_vodenje">
-                    <a href="#">BIM projektno vodenje</a>
+                    <a href="#"><b>BIM projektno vodenje</b></a>
                 </Scroll>
             </li>
             <li>
                 <Scroll type="id" element="bim">
-                    <a href="#">BIM</a>
+                    <a href="#"><b>BIM</b></a>
                 </Scroll>
             </li>
             <li>
                 <Scroll type="id" element="pomagamo">
-                    <a href="#">Kako vam lahko pomagamo</a>
+                    <a href="#"><b>Kako vam lahko pomagamo</b></a>
                 </Scroll>
             </li>
         </Scrollspy>
