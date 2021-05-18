@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = props => (
   <footer id="footer">
-    <section> 
+    <section id="levo"> 
       <h2>Kavica. Kadarkoli.</h2>
       <p>
         Kako naprej? Imate vprašanja? <br />
@@ -17,7 +17,7 @@ const Footer = props => (
         </li>
       </ul>
     </section>
-    <section>
+    <section id="desno">
       <h2>Kontakt</h2>
       <dl className="alt">
         <dt>Naslov</dt>
