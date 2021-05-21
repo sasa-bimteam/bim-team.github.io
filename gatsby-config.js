@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "BIM Team",
     author: "BIM Team",
-    description: "BIM | Architecture | Design"
+    description: "BIM | Arhitektura | Dizajn"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
