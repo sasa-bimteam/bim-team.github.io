@@ -4,7 +4,7 @@ import logo from '../assets/images/logo.png';
 
 const Header = (props) => (
     <header id="header" className="alt">
-        <span className="logo1><img src={logo} alt="" /></span>
+        <span className="logo><img src={logo} alt="" /></span>
     </header>
 )
 
