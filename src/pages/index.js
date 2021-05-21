@@ -80,7 +80,7 @@ class Index extends React.Component {
               </li>
               <li className="style2">
                 <span className="iconNew icon-scope"></span>
-                <strong>SCOPE</strong> Opseg del
+                <strong>SCOPE</strong> Obseg del
                 <br />
                 <Link to="/scope" className="button little">
                   Več
