@@ -41,7 +41,82 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Kdo smo?</h2>
+                  <h2>Kdo smo1?</h2>
+                </header>
+                <p>
+                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
+                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
+                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
+                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
+                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
+                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                </p>
+                <ul className="actions">
+                  <li>
+                    <Link to="/kdo_smo" className="button">
+                      Preberite več
+                    </Link>
+                  </li>
+                </ul>
+              </div>
+              <span className="image">
+                <img src={pic01} alt="" />
+              </span>
+            </div>
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Kdo smo2?</h2>
+                </header>
+                <p>
+                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
+                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
+                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
+                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
+                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
+                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                </p>
+                <ul className="actions">
+                  <li>
+                    <Link to="/kdo_smo" className="button">
+                      Preberite več
+                    </Link>
+                  </li>
+                </ul>
+              </div>
+              <span className="image">
+                <img src={pic01} alt="" />
+              </span>
+            </div>
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Kdo smo3?</h2>
+                </header>
+                <p>
+                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
+                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
+                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
+                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
+                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
+                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                </p>
+                <ul className="actions">
+                  <li>
+                    <Link to="/kdo_smo" className="button">
+                      Preberite več
+                    </Link>
+                  </li>
+                </ul>
+              </div>
+              <span className="image">
+                <img src={pic01} alt="" />
+              </span>
+            </div>
+            <div className="spotlight">
+              <div className="content">
+                <header className="major">
+                  <h2>Kdo smo4?</h2>
                 </header>
                 <p>
                 Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
