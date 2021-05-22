@@ -25,10 +25,10 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                <h2><b>Saša Jovanović</b></h2>
-                <p>
+                <h2><b>Saša Jovanović</b>
                 Direktorica | Arhitektka | Certificirana GRAPHISOFT BIM Vodja
-                </p>
+                </h2>
+              
                 </header>
                 <p>
                 Saša kot arhitektka že več kot 11 let deluje na področju arhitekture,
