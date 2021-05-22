@@ -28,7 +28,7 @@ class KdoSmo extends React.Component {
                 <h2><b>Saša Jovanović</b></h2>
                 <p>
                 Direktorica | Arhitektka | Certificirana GRAPHISOFT BIM Vodja
-                </p>>
+                </p>
                 </header>
                 <p>
                 Saša kot arhitektka že več kot 11 let deluje na področju arhitekture,
