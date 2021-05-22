@@ -41,15 +41,10 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Kdo smo?</h2>
+                  <h2>Spoznajte našo čudovito ekipo</h2>
                 </header>
                 <p>
-                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
-                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
-                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
-                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
-                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
-                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                Smo ekipa različno nadarjenih strokovnjakov, bogatijo pa nas dolgoletne delovne izkušnje.
                 </p>
                 <ul className="actions">
                   <li>
