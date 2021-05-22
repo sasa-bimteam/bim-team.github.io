@@ -26,6 +26,7 @@ class KdoSmo extends React.Component {
               <div className="content">
                 <header className="major">
                   <h2>Saša Jovanović</h2>
+                  <h4>CEO</h4>
                 </header>
                 <p>
                 Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
