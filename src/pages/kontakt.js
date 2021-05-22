@@ -3,7 +3,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import pic01 from '../assets/images/16-0014107.jpg'
+import pic01 from '../assets/images/stor1.jpg'
 
 class Kontakt extends React.Component {
   render() {
