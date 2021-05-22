@@ -149,7 +149,7 @@ class Index extends React.Component {
                 </Link>
               </li>
               <li>
-                <span className="icon major style3 fa-copy"></span>
+                <span className="icon major style3 far fa-paper-plane"></span>
                 <h3>BIM za arhitekte</h3>
                 <p>
                   Kako in kje začeti z oblikovanjem
