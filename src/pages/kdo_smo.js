@@ -16,10 +16,8 @@ class KdoSmo extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic04} alt="" /></span>
-            <p>Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za povečanje produktivnosti in učinkovitosti pri procesu
-                gradnje inteligentnega virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se vsak dan učimo od sveta in drug od
-                drugega - združujeta nas radovednost in prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki jih lahko pričakujete,
-                ko boste sodelovali z ekipo BIM Team.
+            <h2>Spoznajte našo čudovito ekipo</h2>
+            <p> Smo ekipa različno nadarjenih strokovnjakov, bogatijo pa nas dolgoletne delovne izkušnje.
             </p>
 
             <div className="spotlight">
