@@ -136,7 +136,7 @@ class Index extends React.Component {
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-code"></span>
+                <span className="icon major style1 far fa-paper-plane"></span>
                 <h3>BIM za začetnike</h3>
                 <p>
                   Če ste novi na področju BIM-a in
@@ -149,7 +149,7 @@ class Index extends React.Component {
                 </Link>
               </li>
               <li>
-                <span className="icon major style3 far fa-paper-plane"></span>
+                <span className="icon major style3 fas fa-home"></span>
                 <h3>BIM za arhitekte</h3>
                 <p>
                   Kako in kje začeti z oblikovanjem
