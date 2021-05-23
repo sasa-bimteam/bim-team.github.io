@@ -39,7 +39,7 @@ const Footer = props => (
           </a>
         </li>
         <li>
-        <a href="https://codebushi.com" className="icon fa-youtube alt">
+        <a href="https://www.youtube.com/channel/UC4tOYIWTNe1z-ODyH4Y5X0g" className="icon fa-youtube alt">
             <span className="label">Youtube</span>
           </a>
         </li>
