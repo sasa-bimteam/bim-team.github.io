@@ -3,7 +3,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
-import pic01 from '../assets/images/samsung-webex-flip-cisco-smart-working-gruppo-e1586348221167.jpg'
+import pic01 from '../assets/images/za zacetnike.jpg'
 
 class ZaArhitekte extends React.Component {
   render() {
