@@ -44,7 +44,7 @@ const Footer = props => (
           </a>
         </li>
         <li>
-          <a href="https://codebushi.com" className="icon fa-instagram alt">
+          <a href="https://www.instagram.com/jovanovichsasha/" className="icon fa-instagram alt">
             <span className="label">Instagram</span>
           </a>
         </li>
