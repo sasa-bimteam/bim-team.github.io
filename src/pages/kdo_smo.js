@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 import peopleSasa from '../assets/images/people/sasa_jovanovic.png'
+import peopleJovana from '../assets/images/people/Jovana.png'
 import pic04 from '../assets/images/pic04.jpg'
 
 class KdoSmo extends React.Component {
@@ -45,7 +46,7 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Saša Jovanović</h2>
+                  <h2>Jovana Sinadinović</h2>
                 </header>
                 <p>
                 Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
@@ -57,7 +58,7 @@ class KdoSmo extends React.Component {
                 </p>
               </div>
               <span className="image">
-                <img src={peopleSasa} alt="" />
+                <img src={peopleJovana} alt="" />
               </span>
             </div>
             <div className="spotlight">
