@@ -88,7 +88,7 @@ class KdoSmo extends React.Component {
                 </header>
                 <p>
                 Bichon Frise | Specialistka za spanje in dobro voljo
-
+               <b/>
                 Naša prikupna specialistka bo s svojo prisotnostjo poskrbela, da je delovno okolje prijetnejše, 
                 bolj sproščeno, nasmejano in posledično manj stresno.
                 Pozitivno vpliva na produktivnost, delovno zadovoljstvo in z veseljem bo spala namesto vas.
