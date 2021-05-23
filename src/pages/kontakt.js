@@ -17,14 +17,20 @@ class Kontakt extends React.Component {
             <span className="image main"><img src={pic01} alt="" /></span>
             <h2>BIM storitve</h2>
             <p>Prehod na pristop BIM predstavlja večji zalogaj, tako finančni, tehnični kot organizacijski. Za uspešno implementacijo potrebujete podporo vodstva in pripravljenost zaposlenih sprejemati spremembe. Pomembno je, da se pri uvajanju ne ustavimo, saj končne prednosti uporabe BIM tehnologije večkratno nadomestijo vložen čas in denar. Z veseljem vam pomagamo z naslednjimi storitvami:
+            <br />
             - BIM projektno vodenje z uporabo platforme PLANNERLY - izobraževanja in svetovanja
+            <br />
             - Implementacija pristopa BIM v delovni proces arhitekturnega projektiranja z uporabo Graphisoft Archicad® programske opreme
+            <br />
             - Izdelava, podjetju in zaposlenim, prilagojene Archicad predloge za povečanje produktivnosti in učinkovitosti
+            <br />
             - 2D v 3D ali BIM model - po želji pretvorimo vašo 2D dokumentacijo v inteligenten BIM model ali samo 3D model z uporabo Graphisoft Archicad® programske opreme</p>
             <h2>Naši certifikati 🙂</h2>
             <p>GRAPHISOFT BIM Manager
-               buildingSmart International - Professional Certification - Foundation (pending)
-               Plannerly - SmartLeanBIM® certificate (pending)</p>
+            <br />
+             buildingSmart International - Professional Certification - Foundation (pending)
+             <br />
+             Plannerly - SmartLeanBIM® certificate (pending)</p>
 
             <Link to="/" className="button">
               Nazaj
