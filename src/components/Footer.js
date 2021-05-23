@@ -33,7 +33,7 @@ const Footer = props => (
         <li>
           <a
             href="https://https://www.linkedin.com/in/sasajovanovic78/"
-            className="fab fa-linkedin-in"
+            className="fa-linkedin-in"
           >
             <span className="label">Linkedin</span>
           </a>
