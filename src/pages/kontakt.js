@@ -41,6 +41,7 @@ class Kontakt extends React.Component {
             <Link to="/" className="button">
               Nazaj
             </Link>
+            <span className="image main"><img src={pic01} alt="" /></span>
           </section>
         </div>
       </Layout>
