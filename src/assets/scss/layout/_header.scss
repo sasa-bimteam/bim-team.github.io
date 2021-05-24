@@ -40,13 +40,15 @@
 				));
 				@include vendor('transition-delay', '0s');
 				display: block;
-				margin: 0 0 (_size(element-margin) * 0.75) 0;
+				//margin: 0 0 (_size(element-margin) * 0.75) 0;
+				margin: 0;
 
 				img {
 					display: block;
-					margin: 0 auto;
+					//margin: 0 auto;
+					margin: 0;
 					//width: 100%;
-					max-width: 75%;
+					//max-width: 75%;
 				}
 			}
 		}
