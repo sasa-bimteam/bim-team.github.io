@@ -26,7 +26,7 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h3>Saša Jovanović</h3>
+                  <h3><b>Saša Jovanović</b></h3>
                   <h4>Direktorica | Arhitektka | Certificirana GRAPHISOFT BIM Vodja</h4>
                 </header>
                 <p>
@@ -48,7 +48,7 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Jovana Anđelić</h2>
+                  <h3><b>Jovana Anđelić</b></h3>
                   <h4>Arhitektka | Archicad in BIM specialistka</h4>
                 </header>
                 <p>
@@ -67,7 +67,7 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Zoran Jovanović</h2>
+                  <h3><b>Zoran Jovanović</b></h3>
                 </header>
                 <p>
                 Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
@@ -85,7 +85,7 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Princess Medena</h2>
+                  <h3><b>Princess Medena</b></h3>
                 </header>
                 
                 <h4>Bichon Frise | Specialistka za spanje in dobro voljo</h4>
