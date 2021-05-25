@@ -9,8 +9,7 @@
 	.spotlight {
 		@include vendor('display', 'flex');
 		@include vendor('align-items', 'center');
-		//margin: 0 0 _size(element-margin) 0;
-		margin: 0 0 0 0;
+		margin: 0 0 _size(element-margin) 0;
 
 		.content {
 			@include vendor('flex', '1');
@@ -54,7 +53,6 @@
 					&.major {
 						h2 {
 							&:after {
-								margin-bottom: 0;
 								margin-left: auto;
 								margin-right: auto;
 							}
