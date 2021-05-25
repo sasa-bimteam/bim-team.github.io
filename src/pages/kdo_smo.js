@@ -49,7 +49,7 @@ class KdoSmo extends React.Component {
               <div className="content">
                 <header className="major">
                   <h2>Jovana Anđelić</h2>
-                  <P>Arhitektka | Archicad in BIM specialistka</P>
+                  <p>Arhitektka | Archicad in BIM specialistka</p>
                 </header>
                 <p>
                 Jovana je arhitektka in že več kot 6 let deluje na področju arhitekture in 
