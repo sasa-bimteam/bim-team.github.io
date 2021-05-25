@@ -38,10 +38,12 @@ class Kontakt extends React.Component {
              buildingSmart International - Professional Certification - Foundation (pending)
              <br />
              Plannerly - SmartLeanBIM® certificate (pending)</p>
-
-            <Link to="/" className="button">
-              Nazaj
-            </Link>
+            
+            <div>
+              <Link to="/" className="button">
+                Nazaj
+              </Link>
+            </div>
             <br />
            
             <span className="image main"><img src={zaupaju} alt="" /></span>
