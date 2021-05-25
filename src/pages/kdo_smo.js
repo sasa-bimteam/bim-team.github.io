@@ -49,7 +49,7 @@ class KdoSmo extends React.Component {
               <div className="content">
                 <header className="major">
                   <h2>Jovana Anđelić</h2>
-                  <p>Arhitektka | Archicad in BIM specialistka</p>
+                  <h4>Arhitektka | Archicad in BIM specialistka</h4>
                 </header>
                 <p>
                 Jovana je arhitektka in že več kot 6 let deluje na področju arhitekture in 
@@ -87,10 +87,9 @@ class KdoSmo extends React.Component {
                 <header className="major">
                   <h2>Princess Medena</h2>
                 </header>
+                
+                <h4>>Bichon Frise | Specialistka za spanje in dobro voljo</h4>
                 <p>
-                Bichon Frise | Specialistka za spanje in dobro voljo
-                <br />
-                <br />
                 Naša prikupna specialistka bo s svojo prisotnostjo poskrbela, da je delovno okolje prijetnejše, 
                 bolj sproščeno, nasmejano in posledično manj stresno.
                 Pozitivno vpliva na produktivnost, delovno zadovoljstvo in z veseljem bo spala namesto vas.
