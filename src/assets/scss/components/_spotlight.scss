@@ -9,7 +9,8 @@
 	.spotlight {
 		@include vendor('display', 'flex');
 		@include vendor('align-items', 'center');
-		margin: 0 0 _size(element-margin) 0;
+		//margin: 0 0 _size(element-margin) 0;
+		margin: 0 0 0 0;
 
 		.content {
 			@include vendor('flex', '1');

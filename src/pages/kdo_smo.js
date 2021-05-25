@@ -88,7 +88,7 @@ class KdoSmo extends React.Component {
                   <h2>Princess Medena</h2>
                 </header>
                 
-                <h4>>Bichon Frise | Specialistka za spanje in dobro voljo</h4>
+                <h4>Bichon Frise | Specialistka za spanje in dobro voljo</h4>
                 <p>
                 Naša prikupna specialistka bo s svojo prisotnostjo poskrbela, da je delovno okolje prijetnejše, 
                 bolj sproščeno, nasmejano in posledično manj stresno.
