@@ -30,7 +30,7 @@ class KdoSmo extends React.Component {
                   <h4>Direktorica | Arhitektka | Certificirana GRAPHISOFT BIM Vodja</h4>
                 </header>
                 <p>
-                Saša kot arhitektka že več kot 11 let deluje na področju arhitekture,
+                Saša je arhitektka in že več kot 11 let deluje na področju arhitekture,
                 načrtovanja prostora in notranjega oblikovanja v Sloveniji in tujini. 
                 Velja za inovativno, radovedno in dinamično osebo, ki je najbolj zadovoljna, 
                 ko širi svoja obzorja. Rada odkriva nove ideje in si vedno prizadeva poiskati 
@@ -48,15 +48,16 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Jovana Sinadinović</h2>
+                  <h2>Jovana Anđelić</h2>
+                  <h4>Arhitektka | Archicad in BIM specialistka</h4>
                 </header>
                 <p>
-                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
-                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
-                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
-                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
-                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
-                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                Jovana je arhitektka in že več kot 6 let deluje na področju arhitekture in 
+                notranjega oblikovanja. Izvedba vseh njenih projektov je bistveno olajšana z 
+                uporabo BIM procesov že v fazi projektiranja. Dnevno stremi k temu, 
+                da vsa svoja znanja na področju uporabe BIM orodij implementira v proces projektiranja, 
+                da bi končni naročnik imel ves čas realističen vpogled v grajen objekt. 
+                Njena strast je ustvarjanje arhitekture, ki vedno poudarja funkcionalnost in harmonijo z lokalno arhitekturo in okoljem.
                 </p>
               </div>
               <span className="image">
