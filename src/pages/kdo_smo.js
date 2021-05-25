@@ -26,7 +26,7 @@ class KdoSmo extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h3><b>Saša Jovanović</b></h3>
+                  <h3><strong>Saša Jovanović</strong></h3>
                   <h4>Direktorica | Arhitektka | Certificirana GRAPHISOFT BIM Vodja</h4>
                 </header>
                 <p>
