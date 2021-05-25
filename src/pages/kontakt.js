@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import Layout from '../components/layout'
 import pic01 from '../assets/images/stor1.jpg'
+import zaupaju from '../assets/images/stor1.jpg'
 
 class Kontakt extends React.Component {
   render() {
@@ -41,8 +42,9 @@ class Kontakt extends React.Component {
             <Link to="/" className="button">
               Nazaj
             </Link>
-            <br></br>
-            <span className="image main"><img src={pic01} alt="" /></span>
+            <br>
+            </br>
+            <span className="image main"><img src={zaupaju} alt="" /></span>
           </section>
         </div>
       </Layout>
