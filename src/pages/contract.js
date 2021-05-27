@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import picContract from '../assets/images/BIM-Contract-Documents-Complete.jpeg'
 
-class Plan extends React.Component {
+class Contract extends React.Component {
   render() {
 
     return (
