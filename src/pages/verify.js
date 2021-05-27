@@ -15,9 +15,7 @@ class Verify extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={picVerify} alt="" /></span>
-            <h2>VERIFY</h2>
-            <strong>Simplified BIM Compliance</strong>
-            <p>Connecting models and requirements to achieve better BIM management</p>
+            
 
             <a href="https://www.plannerly.com/verify/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
@@ -36,3 +34,7 @@ class Verify extends React.Component {
 }
 
 export default Verify
+
+            ///<h2>VERIFY</h2>
+            ///<strong>Simplified BIM Compliance</strong>
+            ///<p>Connecting models and requirements to achieve better BIM management</p>
