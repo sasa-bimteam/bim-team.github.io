@@ -15,13 +15,14 @@ class Plan extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={picPlan} alt="" /></span>
-            ///<h2>PLAN</h2>
-            ///<strong>Simple BIM Execution Planning</strong>
-            ////<p>Drag and drop from hundreds of free BEP templates to quickly create and agree on your BIM standards, processes and contracts.</p>
+            
+            /* <h2>PLAN</h2>
+            <strong>Simple BIM Execution Planning</strong>
+            <p>Drag and drop from hundreds of free BEP templates to quickly create and agree on your BIM standards, processes and contracts.</p>
 
             <a href="https://www.plannerly.com/plan/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
-            </a>
+            </a> */
 
             <span>&nbsp;</span>
 
