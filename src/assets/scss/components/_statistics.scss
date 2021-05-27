@@ -88,6 +88,11 @@
 					'url("../images/icons/Scope-Icon.svg")',
 				));
 			}
+			.icon-contract {
+				@include vendor('background-image', (
+					'url("../images/icons/BIM-Contracting.svg")',
+				));
+			}
 
 			.icon-schedule {
 				@include vendor('background-image', (
