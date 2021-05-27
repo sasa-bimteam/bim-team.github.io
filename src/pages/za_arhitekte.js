@@ -11,9 +11,7 @@ class ZaArhitekte extends React.Component {
     return (
       <Layout>
         <Helmet title="Za Arhitekte" />
-        <header id="header">
-          <h1>Za Arhitekte</h1>
-        </header>
+        <header id="header"></header>
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic01} alt="" /></span>
