@@ -15,9 +15,7 @@ class Schedule extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={picSchedule} alt="" /></span>
-            <h2>SCHEDULE</h2>
-            <strong>The BIM schedule that teams build together</strong>
-            <p>Multi-team task sequencing and collaboration provided 53% fewer coordination issues (read the case study)</p>
+            
 
             <a href="https://www.plannerly.com/schedule/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
               Začni zdaj
@@ -36,3 +34,7 @@ class Schedule extends React.Component {
 }
 
 export default Schedule
+
+///<h2>SCHEDULE</h2>
+            ///<strong>The BIM schedule that teams build together</strong>
+            ///<p>Multi-team task sequencing and collaboration provided 53% fewer coordination issues (read the case study)</p>
