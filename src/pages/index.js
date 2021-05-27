@@ -113,7 +113,7 @@ class Index extends React.Component {
               </li>
               <li className="style5">
                 <span className="iconNew icon-validate"></span>
-                <strong>VERIFY</strong> Potrditev
+                <strong>VERIFY</strong> Preverjanje
                 <br />
                 <Link to="/verify" className="button little">
                   Več
@@ -131,7 +131,7 @@ class Index extends React.Component {
               <ul className="actions">
                 <li>
                   <a href="https://www.plannerly.com/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
-                  Začnite brezplačno uporabljati PLANNERLY
+                Pišite nam za naročilo promocijske kode za popust
                   </a>
                 </li>
               </ul>
