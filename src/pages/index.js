@@ -78,11 +78,18 @@ class Index extends React.Component {
                 <Link to="/plan" className="button little">
                   Več
                 </Link>
-              
+              </li>
+              <li className="style2">
+                <span className="iconNew icon-scope"></span>
+                <strong>SCOPE</strong> Obseg del
+                <br />
+                <Link to="/scope" className="button little">
+                  Več
+                </Link>
                 </li>
               <li className="style6">
                 <span className="iconNew icon-contract"></span>
-                <strong>CONTRACT</contract> Pogodbe
+                <strong>CONTRACT</strong> Pogodbe
                 <br />
                 <Link to="/contract" className="button little">
                   Več
