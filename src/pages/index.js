@@ -63,7 +63,7 @@ class Index extends React.Component {
                 <img src={pic01} alt="" />
               </span>
             </div>
-            
+
           </section>
 
           <section id="projektno_vodenje" className="main special">
@@ -125,7 +125,7 @@ class Index extends React.Component {
             PLANNERLY je platforma v oblaku za BIM projektno vodenje, namenjena arhitektom, inženirjem, izvajalcem in investitorjem za izboljšanje njihovega sodelovanja in komunikacije.
             PLANNERLY je skupna platforma za vse udeležence v projektu, na kateri lahko soustvarjajo, pregledujejo, komentirajo in potrjujejo načrt izvedbe BIM (angl. BEP - BIM Execution Plan);
             dodeljujejo, se dogovarjajo in določajo obseg del;
-            spremljajo napredek in sledijo oddajam - vse to v eni namenski spletni aplikaciji.
+            spremljajo napredek in sledijo oddajam - vse to v eni namenski spletni aplikaciji, ki je tudi <a href="https://www.plannerly.com/pricing/?utm_source=yt5ep" target="_blank" rel="noopener noreferrer">cenovno ugodna</a>.
             </p>
             <footer className="major">
               <ul className="actions">
