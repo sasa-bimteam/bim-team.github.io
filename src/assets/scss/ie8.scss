@@ -12,14 +12,14 @@
 /* Type */
 
 	body {
-		color: _palette(fg-bold);
+		//color: _palette(fg-bold);
 	}
 
 /* Button */
 
 	.button {
 		position: relative;
-		border: solid 1px !important;
+		border: solid 2px !important;
 
 		&.special {
 			border: none !important;
