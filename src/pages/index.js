@@ -135,6 +135,7 @@ class Index extends React.Component {
                   </a>
                 </li>
               </ul>
+              <p>Pišite nam za naročilo promocijske kode za popust</p>
             </footer>
           </section>
 
