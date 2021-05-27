@@ -70,12 +70,10 @@ class KdoSmo extends React.Component {
                   <h3><b>Zoran Jovanović</b></h3>
                 </header>
                 <p>
-                Smo ekipa različno nadarjenih strokovnjakov, ki jih povezuje skupna strast za
-                povečanje produktivnosti in učinkovitosti pri procesu gradnje inteligentnega
-                virtualnega modela zgradbe. Skupaj delimo, se smejimo, trdo delamo in se
-                vsak dan učimo od sveta in drug od drugega - združujeta nas radovednost in
-                prizadevanje za deljenje znanja. To so vrednote, ki jih trdno negujemo in ki
-                jih lahko pričakujete, ko boste sodelovali z ekipo BIM Team.
+                Moje kreativno delovanje je usmerjeno k jasnemu in inovativnemu razmišljanju. 
+                Združujem enostavno s premišljenim ob nenehni skrbi za ustreznost končne rešitve. 
+                Iščem nove izzive ter si v neverbalni komunikaciji skozi svoje stvaritve prizadevam, 
+                da bi bilo širše občinstvo dovzetno za njihovo sporočilnost.
                 </p>
               </div>
               <span className="image">
@@ -88,7 +86,7 @@ class KdoSmo extends React.Component {
                   <h3><b>Princess Medena</b></h3>
                 </header>
                 
-                <h4>Bichon Frise | Specialistka za spanje in dobro voljo</h4>
+                <h4><Bichon Frise | Specialistka za spanje in dobro voljo</h4>
                 <p>
                 Naša prikupna specialistka bo s svojo prisotnostjo poskrbela, da je delovno okolje prijetnejše, 
                 bolj sproščeno, nasmejano in posledično manj stresno.
