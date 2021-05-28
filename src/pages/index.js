@@ -134,7 +134,7 @@ class Index extends React.Component {
               <ul className="actions">
                 <li>
                   <a href="https://www.plannerly.com/?utm_source=yt5ep" target="_blank" class="button special" rel="noopener noreferrer">
-                  Začnite brezplačno uporabljati PLANNERLY
+                  Brezplačno preizkusite PLANNERLY
                   </a>
                 </li>
               </ul>
