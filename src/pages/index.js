@@ -138,7 +138,9 @@ class Index extends React.Component {
                   </a>
                 </li>
               </ul>
-              <p>Pišite nam za naročilo promocijske kode za popust</p>
+              <p>In se pridružite več kot 30,000 uporabnikom, 
+                ki dnevno povečujejo svojo produktivnost z uporabo platforme PLANNERLY 🚀 
+                ali pa nam pišite za naročilo promocijske kode za popust.</p>
             </footer>
           </section>
 
