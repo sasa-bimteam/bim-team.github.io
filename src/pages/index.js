@@ -67,7 +67,7 @@ class Index extends React.Component {
 
           <section id="projektno_vodenje" className="main special">
             <header className="major">
-              <h2>Platforma PLANNERLY za management BIM</h2>
+              <h2> PLANNERLY - platforma za management BIM</h2>
             </header>
             <ul className="statistics">
               <li className="style1">
