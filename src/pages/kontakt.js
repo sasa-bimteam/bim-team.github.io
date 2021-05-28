@@ -25,7 +25,7 @@ class Kontakt extends React.Component {
             Z veseljem vam pomagamo z naslednjimi storitvami:
             <br />
             <br />
-            - BIM projektno vodenje z uporabo platforme PLANNERLY - izobraževanja in svetovanja
+            - Management BIM z uporabo platforme PLANNERLY - izobraževanja in svetovanja
             <br />
             - Implementacija pristopa BIM v delovni proces arhitekturnega projektiranja z uporabo Graphisoft Archicad® programske opreme
             <br />
