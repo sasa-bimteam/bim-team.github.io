@@ -12,7 +12,7 @@ const Nav = (props) => (
             </li>
             <li>
                 <Scroll type="id" element="projektno_vodenje">
-                    <a href="#"><b>BIM projektno vodenje</b></a>
+                    <a href="#"><b>Management BIM </b></a>
                 </Scroll>
             </li>
             <li>
