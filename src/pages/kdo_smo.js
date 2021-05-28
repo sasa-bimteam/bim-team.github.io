@@ -30,15 +30,14 @@ class KdoSmo extends React.Component {
                   <h4>Direktorica | Arhitektka | Certified GRAPHISOFT BIM Manager</h4>
                 </header>
                 <p>
-                Saša je arhitektka in že več kot 11 let deluje na področju arhitekture,
+                Saša je arhitektka in že več kot 11 let deluje na področju arhitekture, 
                 načrtovanja prostora in notranjega oblikovanja v Sloveniji in tujini. 
                 Velja za inovativno, radovedno in dinamično osebo, ki je najbolj zadovoljna, 
-                ko širi svoja obzorja. Rada odkriva nove ideje in si vedno prizadeva poiskati 
-                najboljše rešitve, pri tem pa s profesionalnim odnosom presega pričakovanja 
-                strank in skrbi da so zadovoljni. 
-                Kot ustanoviteljica BIM Team-a in certificirana Graphisoft BIM Vodja aktivno 
-                spodbuja in pomaga premostiti vrzel med uporabniki pristopa in orodij BIM in
-                tistimi, ki teh koristi še niso spoznali, tako v Sloveniji kot tudi v tujini.
+                ko širi svoja obzorja. Rada odkriva nove ideje in si vedno prizadeva poiskati najboljše rešitve,
+                 pri tem pa s profesionalnim odnosom presega pričakovanja strank in skrbi da so zadovoljni.
+                  Kot ustanoviteljica BIM Team-a in certificirani Graphisoft BIM Manager
+                   aktivno spodbuja in pomaga premostiti vrzel med uporabniki pristopa in orodij BIM in tistimi, 
+                   ki teh koristi še niso spoznali, tako v Sloveniji kot tudi v tujini.
                 </p>
               </div>
               <span className="image">
@@ -49,7 +48,7 @@ class KdoSmo extends React.Component {
               <div className="content">
                 <header className="major">
                   <h3><b>Jovana Anđelić</b></h3>
-                  <h4>Arhitektka | Archicad in BIM specialistka</h4>
+                  <h4>Arhitektka | Archicad in BIM Expert</h4>
                 </header>
                 <p>
                 Jovana je arhitektka in že več kot 6 let deluje na področju arhitekture in 
