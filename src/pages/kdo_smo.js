@@ -51,12 +51,11 @@ class KdoSmo extends React.Component {
                   <h4>Arhitektka | Archicad in BIM Expert</h4>
                 </header>
                 <p>
-                Jovana je arhitektka in že več kot 6 let deluje na področju arhitekture in 
-                notranjega oblikovanja. Izvedba vseh njenih projektov je bistveno olajšana z 
-                uporabo BIM procesov že v fazi projektiranja. Dnevno stremi k temu, 
-                da vsa svoja znanja na področju uporabe BIM orodij implementira v proces projektiranja, 
-                da bi končni naročnik imel ves čas realističen vpogled v grajen objekt. 
-                Njena strast je ustvarjanje arhitekture, ki vedno poudarja funkcionalnost in harmonijo z lokalno arhitekturo in okoljem.
+                Jovana je arhitektka in že več kot 6 let deluje na področju arhitekture in notranjega oblikovanja.
+                 Izvedba vseh njenih projektov je bistveno olajšana z uporabo procesov BIM že v fazi projektiranja.
+                  Dnevno stremi k temu, da vsa svoja znanja na področju uporabe BIM orodij implementira v proces projektiranja, 
+                  da bi končni naročnik imel ves čas realističen vpogled v grajen objekt.
+                   Njena strast je ustvarjanje arhitekture, ki vedno poudarja funkcionalnost in harmonijo z lokalno arhitekturo in okoljem.
                 </p>
               </div>
               <span className="image">
@@ -67,11 +66,12 @@ class KdoSmo extends React.Component {
               <div className="content">
                 <header className="major">
                   <h3><b>Zoran Jovanović</b></h3>
+                  <h4>so-ustanovitelj | Grafični oblikovalec  | CorelDraw Expert</h4>
                 </header>
                 <p>
-                Moje kreativno delovanje je usmerjeno k jasnemu in inovativnemu razmišljanju. 
-                Združujem enostavno s premišljenim ob nenehni skrbi za ustreznost končne rešitve. 
-                Iščem nove izzive ter si v neverbalni komunikaciji skozi svoje stvaritve prizadevam, 
+                Njegovo kreativno delovanje je usmerjeno k jasnemu in inovativnemu razmišljanju. 
+                Združuje enostavno s premišljenim, ob nenehni skrbi za ustreznost končne rešitve. 
+                Išče nove izzive, ter si v neverbalni komunikaciji skozi svoje stvaritve prizadeva, 
                 da bi bilo širše občinstvo dovzetno za njihovo sporočilnost.
                 </p>
               </div>
