@@ -123,7 +123,7 @@ class Index extends React.Component {
             Usklajevanje zahtev med projektiranjem in gradnjo je lahko velik izziv, 
             zato v Plannerly-ju verjamemo v pameten in vitek pristop BIM: 
             <z>
-              <b>pravi BIM, v pravem trenutku, od pravih ljudi - zaradi pravih razlogov.</b>
+              <b> pravi BIM, v pravem trenutku, od pravih ljudi - zaradi pravih razlogov. </b>
               </z> 
              PLANNERLY je platforma v oblaku za management BIM, namenjena arhitektom, 
             inženirjem, izvajalcem in investitorjem za izboljšanje njihovega sodelovanja in komunikacije. 
