@@ -24,7 +24,7 @@
 		}
 
 	body, .body {
-		background-color: _palette(bg);
+		background-color: _palette(bg2);
 		@include vendor('background-image', (
 			'url("../images/overlay.png")',
 			'linear-gradient(45deg, #{_palette(bg1)} 15%, #{_palette(bg2) 85%})',
