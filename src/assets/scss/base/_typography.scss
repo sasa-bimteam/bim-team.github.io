@@ -198,6 +198,10 @@
 			color: _palette($p, bg-bold);
 			//color: black;
 		}
+		strong, z {
+			color: _palette($p, z);
+			//color: black;
+		}
 
 		h1, h2, h3, h4, h5, h6 {
 			color: _palette($p, fg-bold);
