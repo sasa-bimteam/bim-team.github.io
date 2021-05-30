@@ -16,7 +16,7 @@ class Kontakt extends React.Component {
         <div id="main">
           <section id="content" className="main">
             <span className="image main"><img src={pic01} alt="" /></span>
-            <h2><b>>BIM storitve</b</h2>
+            <h2><b>BIM storitve</b></h2>
             <p>Prehod na pristop BIM predstavlja večji zalogaj, tako finančni, tehnični kot organizacijski. 
             <br />
             Za uspešno implementacijo potrebujete podporo vodstva in pripravljenost zaposlenih sprejemati spremembe. Pomembno je, da se pri uvajanju ne ustavimo, saj končne prednosti uporabe BIM tehnologije večkratno nadomestijo vložen čas in denar.
