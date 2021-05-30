@@ -46,7 +46,7 @@ class Kontakt extends React.Component {
               </Link>
             </div>
             <br />
-            <h2>Zaupajo nam:</h2>
+            <h2><b>Zaupajo nam:</b></h2>
            
             <span className="image main"><img src={zaupaju} alt="" /></span>
           </section>
