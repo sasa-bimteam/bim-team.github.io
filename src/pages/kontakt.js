@@ -33,7 +33,7 @@ class Kontakt extends React.Component {
             <z>- Izdelava, podjetju in zaposlenim, prilagojene Archicad predloge za povečanje produktivnosti in učinkovitosti</z>
             <br />
             <z>- 2D v 3D ali BIM model - po želji pretvorimo vašo 2D dokumentacijo v inteligenten BIM model ali samo 3D model z uporabo Graphisoft Archicad® programske opreme</z></p>
-            <h2>Naši certifikati 🙂</h2>
+            <h2><b>Naši certifikati</b> 🙂</h2>
             <p><z>GRAPHISOFT BIM Manager</z>
             <br />
             <z>buildingSmart International - Professional Certification - Foundation (pending)</z>
