@@ -24,7 +24,7 @@ class Kontakt extends React.Component {
             <br />
             Z veseljem vam pomagamo z naslednjimi storitvami:
             <br />
-            <br />
+            <z><br />
             - Management BIM z uporabo platforme PLANNERLY - izobraževanja in svetovanja
             <br />
             - Implementacija pristopa BIM v delovni proces arhitekturnega projektiranja z uporabo Graphisoft Archicad® programske opreme
@@ -37,7 +37,7 @@ class Kontakt extends React.Component {
             <br />
              buildingSmart International - Professional Certification - Foundation (pending)
              <br />
-             Plannerly - SmartLeanBIM® certificate (pending)</p>
+             Plannerly - SmartLeanBIM® certificate (pending)</p></z>
             
             <div>
               <Link to="/" className="button">
