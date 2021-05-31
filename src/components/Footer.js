@@ -21,7 +21,7 @@ const Footer = props => (
       <h2><b>Kontakt</b></h2>
       <dl className="alt">
         <dt>Naslov</dt>
-        <dd>Ljubljana, Slovenija, Europe, Earth <far fa-smile></dd>
+        <dd>Ljubljana, Slovenija, Europe, Earth 😀</dd>
         <dt>Telefon</dt>
         <dd>+386 68 642 687</dd>
         <dt>Email</dt>
