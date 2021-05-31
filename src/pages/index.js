@@ -194,7 +194,8 @@ class Index extends React.Component {
                   <Link to="/kontakt" className="button special">
                     Pogovor s svetovalcem
                   </Link>
-                  <span className="team01"><img src={team01} alt="" /></span>
+
+                 <b> <span className="team01"><img src={team01} alt="" /></span></b>
                 </li>
               </ul>
             </footer>
