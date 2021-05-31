@@ -56,7 +56,7 @@ const Footer = props => (
       </ul>
     </section>
     <p className="copyright">
-      copyright&copy; 2021 by BIM Team, all rights reserved worldwide.<br /> Narejeno z ♥ v Sloveniji
+      copyright&copy; 2021 by BIM Team, all rights reserved worldwide.<br /> Narejeno z ❤️ v Sloveniji
     </p>
   </footer>
 )
