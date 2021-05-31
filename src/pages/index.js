@@ -6,7 +6,7 @@ import pic01 from '../assets/images/pic01.jpg'
 import Header from '../components/Header'
 import Layout from '../components/layout'
 import Nav from '../components/Nav'
-import team from '../assets/images/team01.svg'
+import team01 from '../assets/images/team01.svg'
 
 class Index extends React.Component {
   constructor(props) {
@@ -194,7 +194,7 @@ class Index extends React.Component {
                   <Link to="/kontakt" className="button special">
                     Pogovor s svetovalcem
                   </Link>
-                  <span className="team"><img src={team01} alt="" /></span>
+                  <span className="team01"><img src={team01} alt="" /></span>
                 </li>
               </ul>
             </footer>
