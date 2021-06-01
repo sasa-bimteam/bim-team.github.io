@@ -37,7 +37,7 @@ class Kontakt extends React.Component {
             <h2><b>Naši certifikati</b> 🙂</h2>
             <p><z>✔️GRAPHISOFT BIM Manager</z> 
             <br />
-            <z>-buildingSmart International - Professional Certification - Foundation (pending)</z>
+            <z>➖buildingSmart International - Professional Certification - Foundation (pending)</z>
              <br />
              <z>✔️Plannerly - SmartLeanBIM® certificate</z></p>
              <span className="image main"><img src={cerBIM} alt="" /></span> 
