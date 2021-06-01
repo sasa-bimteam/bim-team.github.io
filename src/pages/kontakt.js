@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import pic01 from '../assets/images/stor1.jpg'
 import zaupaju from '../assets/images/zaupajonam.jpg'
-import cerBIM from '../assets/images/cer01.svg'
+import cerBIM from '../assets/images/cer01.png'
 
 class Kontakt extends React.Component {
   render() {
