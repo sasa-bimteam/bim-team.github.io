@@ -43,11 +43,11 @@ class Kontakt extends React.Component {
              <b> <span className="cer01"><img src={cerBIM} alt="" /></span> </b>
             
             <div>
-              <b><Link to="/" className="button"></b>
+              <Link to="/" className="button">
                 Nazaj
               </Link>
               
-
+              <br />
               
             </div>
             
