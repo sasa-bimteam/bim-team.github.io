@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import pic01 from '../assets/images/stor1.jpg'
 import zaupaju from '../assets/images/zaupajonam.jpg'
+import cerBIM from '../assets/images/cer01.svg'
 
 class Kontakt extends React.Component {
   render() {
@@ -44,6 +45,7 @@ class Kontakt extends React.Component {
               <Link to="/" className="button">
                 Nazaj
               </Link>
+              <b> <span className="cer01"><img src={cerBIM} alt="" /></span></b>
             </div>
             <br />
             <h2><b>Zaupajo nam:</b></h2>
