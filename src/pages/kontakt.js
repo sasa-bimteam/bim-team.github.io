@@ -35,7 +35,7 @@ class Kontakt extends React.Component {
             <br />
             <z>- 2D v 3D ali BIM model - po želji pretvorimo vašo 2D dokumentacijo v inteligenten BIM model ali samo 3D model z uporabo Graphisoft Archicad® programske opreme</z></p>
             <h2><b>Naši certifikati</b> 🙂</h2>
-            <p><z>GRAPHISOFT BIM Manager</z>
+            <p><z>GRAPHISOFT BIM Manager</z> <b> <span className="cer01"><img src={cerBIM} alt="" /></span></b>
             <br />
             <z>buildingSmart International - Professional Certification - Foundation (pending)</z>
              <br />
@@ -47,7 +47,7 @@ class Kontakt extends React.Component {
               </Link>
               
             </div>
-            <b> <span className="cer01"><img src={cerBIM} alt="" /></span></b>
+            
             <br />
 
             <h2><b>Zaupajo nam:</b></h2>
