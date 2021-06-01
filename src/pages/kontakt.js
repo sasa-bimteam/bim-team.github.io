@@ -38,7 +38,7 @@ class Kontakt extends React.Component {
             <br />
             <z>buildingSmart International - Professional Certification - Foundation (pending)</z>
              <br />
-             <z>Plannerly - SmartLeanBIM® certificate (pending)</z></p>
+             <z>Plannerly - SmartLeanBIM® certificate</z></p>
             
             <div>
               <Link to="/" className="button">
