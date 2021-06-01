@@ -40,7 +40,7 @@ class Kontakt extends React.Component {
             <z>buildingSmart International - Professional Certification - Foundation (pending)</z>
              <br />
              <z>Plannerly - SmartLeanBIM® certificate</z></p>
-             <b> <span className="cer01"><img src={cerBIM} alt="" /></span> </b>
+             <b> <span className="cer01"><img src={cerBIM} alt="center" /></span> </b>
             <b />
             <div>
             
