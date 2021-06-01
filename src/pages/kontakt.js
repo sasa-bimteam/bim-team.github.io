@@ -45,9 +45,11 @@ class Kontakt extends React.Component {
               <Link to="/" className="button">
                 Nazaj
               </Link>
-              <b> <span className="cer01"><img src={cerBIM} alt="" /></span></b>
+              
             </div>
+            <b> <span className="cer01"><img src={cerBIM} alt="" /></span></b>
             <br />
+
             <h2><b>Zaupajo nam:</b></h2>
            
             <span className="image main"><img src={zaupaju} alt="" /></span>
