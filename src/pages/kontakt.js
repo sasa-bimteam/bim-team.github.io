@@ -46,6 +46,7 @@ class Kontakt extends React.Component {
               <Link to="/" className="button">
                 Nazaj
               </Link>
+              <br />
               
             </div>
             
