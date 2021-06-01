@@ -41,8 +41,9 @@ class Kontakt extends React.Component {
              <br />
              <z>Plannerly - SmartLeanBIM® certificate</z></p>
              <b> <span className="cer01"><img src={cerBIM} alt="" /></span> </b>
-            <b />
+           
             <div>
+            <b />
               <Link to="/" className="button">
                 Nazaj
               </Link>
