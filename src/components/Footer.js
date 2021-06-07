@@ -26,7 +26,7 @@ const Footer = props => (
         <dd>+386 68 642 687</dd>
         <dt>Email</dt>
         <dd>
-          <a href="mainto:studio@bim-team.co">bim.team.studio@gmail.com</a>
+          <a href="mainto:studio@bim-team.co">studio@bim-team.co</a>
         </dd>
       </dl>
       <ul className="icons">
